@@ -17,6 +17,6 @@ The objective of this task is to conduct a cyber threat risk assessment and deve
 
 ## Deliverable
 
-- `Week1_Cyber_Threat_Risk_Assessment_Report.docx`
-
+- [Download the Week 1 Report](Week_1_Cyber_Threat_Risk_Assessment_Report.docx)
+  
 This report is prepared for academic internship submission purposes.
